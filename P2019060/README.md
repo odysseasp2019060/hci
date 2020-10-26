@@ -26,4 +26,4 @@ tbd
 Στην παρακάτω άσκηση χρησιμοποιώ τα command "inxi -Fx" και "ls -a" για να δειξω αρχικα τα specs του VM μου και στι συνεχεια τα file directories.
 δυσκολεύτηκα κιριος με το installation του brew διοτι ειχα προσπεράσει το τελικο βημα με το path αλλα αφου εντοπισα το προβλημα ολα τα υπολοιπα βηματα ηταν ευκολα.
 
-asciinema link: https://asciinema.org/a/368104
+asciinema link: https://asciinema.org/a/368104 
